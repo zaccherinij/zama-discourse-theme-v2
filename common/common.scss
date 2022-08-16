@@ -87,3 +87,9 @@ body textarea {
     }
   }
 }
+
+// Hide search icon from the header
+
+a#search-button.icon {
+    display: none;
+}
