@@ -25,7 +25,7 @@ body textarea {
 
 //raise and round buttons
 .btn {
-  border-radius: 4px;
+  border-radius: 0px;
   @include boxShadow;
   &.btn-flat.close {
     box-shadow: none;
