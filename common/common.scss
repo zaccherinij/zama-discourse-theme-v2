@@ -93,3 +93,7 @@ body textarea {
 a#search-button.icon {
     display: none;
 }
+
+// Make avatar square
+
+img.avatar { border-radius: 0; }
