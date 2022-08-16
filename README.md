@@ -1,4 +1,4 @@
-## Material Design Stock Theme
+## Zama's discourse theme v2.
 
-More info at: https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
+This theme has been adapted from the original stock theme from discourse here: https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
 
